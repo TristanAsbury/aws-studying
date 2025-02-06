@@ -1,0 +1,3 @@
+- Belongs to a specific **[[Virtual Private Cloud (VPC)]]**
+- Exists in a single **Availability Zone** (while a VPC can span multiple Availability Zones)
+- Has a **range of IP addresses** (known as a CIDR range, which stands for [Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing))

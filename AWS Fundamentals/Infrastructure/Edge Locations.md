@@ -1,0 +1,3 @@
+- Much smaller than [[Region|AWS Regions]]
+- Located in more places than regions
+- More spread for lower latency for customers

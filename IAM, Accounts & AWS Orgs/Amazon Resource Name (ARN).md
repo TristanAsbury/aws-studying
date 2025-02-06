@@ -1,0 +1,7 @@
+- Uniquely identify resources within any AWS accounts
+- When working with resources with CLI or APIs, you need a way to refer the resources in an unambiguous way.
+- ARNs allow to refer to a specific resource, or a collection of resources using wildcards.
+- Defined format
+	- `arn:partition:service:region:account-id:resource-id`
+	- `arn:partition:service:region:account-id:resource-id/resource-id`
+	- `arn:partition:service:region:account-id:resource-id:resource-id`

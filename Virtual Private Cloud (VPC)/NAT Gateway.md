@@ -1,0 +1,2 @@
+
+A Network Address Translation (NAT) gateway allows resources in a private subnet to connect to the Internet and other resources outside the [[Virtual Private Cloud (VPC)]]. This is an _outbound-only_ connection, which means that the connection must be initiated from within the private subnet. Resources on the Internet cannot initiate an inbound connection. Therefore, it is a means of keeping resources private and improving security for VPC resources.
