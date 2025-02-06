@@ -43,7 +43,7 @@ S3 stores data as **objects**, which have two main components:
 
 ---
 
-## 4. Buckets 🪣
+## 4. Buckets
 
 Buckets are **containers** that hold your objects. Here’s what you need to know:
 
