@@ -1,3 +1,4 @@
+#IAM 
 ## **What is a Service-Linked Role?**
 
 A **Service-Linked Role** is a special type of **[[IAM Role]]** that is directly linked to a specific AWS service. These roles are preconfigured with the exact permissions that the service needs to interact with other AWS services on your behalf.

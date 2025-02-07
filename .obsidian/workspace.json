@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM, Accounts & AWS Orgs/IAM Role.md",
+                "file": "IAM, Accounts & AWS Orgs/Service-linked Roles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM Role"
+              "title": "Service-linked Roles"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Avail",
+                "query": "tag:#IAM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,31 +180,33 @@
   },
   "active": "d67c9898c39acc7f",
   "lastOpenFiles": [
-    "IAM, Accounts & AWS Orgs/IAM root user.md",
-    "IAM, Accounts & AWS Orgs/IAM Role.md",
+    "IAM, Accounts & AWS Orgs/Service Control Policies.md",
+    "Route53/Nameserver.md",
     "IAM, Accounts & AWS Orgs/Service-linked Roles.md",
-    "Pasted image 20250206085321.png",
+    "IAM, Accounts & AWS Orgs/IAM Role.md",
     "IAM, Accounts & AWS Orgs/IAM Identity.md",
+    "CloudFormation/CloudFormation.md",
+    "Virtual Private Cloud (VPC)/NAT Gateway.md",
+    "Elastic Compute Cloud (EC2)/Elastic Compute Cloud (EC2).md",
+    "Virtual Private Cloud (VPC)/Virtual Private Cloud (VPC).md",
+    "Virtual Private Cloud (VPC)/CIDR Notation.md",
+    "README.md",
+    "Simple Storage Service (S3)/Simple Storage Service (S3).md",
+    "AWS Fundamentals/Infrastructure/Region.md",
+    "AWS Fundamentals/Infrastructure/The Network Zones.md",
+    "IAM, Accounts & AWS Orgs/Identity Access Management (IAM).md",
+    "Pasted image 20250206100826.png",
+    "IAM, Accounts & AWS Orgs/AWS Organizations.md",
+    "IAM, Accounts & AWS Orgs/IAM root user.md",
+    "Pasted image 20250206085321.png",
     "IAM, Accounts & AWS Orgs/IAM Policy.md",
     "IAM, Accounts & AWS Orgs/IAM Group.md",
     "AWS Fundamentals/Infrastructure/Availability Zone.md",
     "AWS Fundamentals/Essential Concepts/Fault Tolerance (FT).md",
-    "AWS Fundamentals/Infrastructure/Region.md",
     "AWS Fundamentals/Infrastructure/Region Resilient.md",
     "AWS Fundamentals/Infrastructure/Edge Locations.md",
-    "Virtual Private Cloud (VPC)/Virtual Private Cloud (VPC).md",
-    "Virtual Private Cloud (VPC)/CIDR Notation.md",
     "Virtual Private Cloud (VPC)/Subnet.md",
-    "Virtual Private Cloud (VPC)/NAT Gateway.md",
-    "Simple Storage Service (S3)/Simple Storage Service (S3).md",
     "Route53/Zone File.md",
-    "Route53/Top-Level Domain (TLD) Server.md",
-    "Route53/Route53.md",
-    "Route53/Root Server.md",
-    "Route53/Nameserver.md",
-    "Route53/Hosted Zones.md",
-    "Route53/DNS Record Type.md",
-    "IAM, Accounts & AWS Orgs/IAM Access Keys.md",
-    "IAM, Accounts & AWS Orgs/IAM User.md"
+    "Route53/Top-Level Domain (TLD) Server.md"
   ]
 }

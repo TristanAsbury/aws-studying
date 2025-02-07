@@ -1,3 +1,5 @@
+#Networking
+
 A **Nameserver** is a specialized server that stores and manages DNS (Domain Name System) records for a domain. When you type a website address into your browser, the nameserver helps direct your request to the correct server by providing the necessary information (such as the website’s IP address).
 
 ---

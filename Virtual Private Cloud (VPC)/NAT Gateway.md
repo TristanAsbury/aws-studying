@@ -1,6 +1,6 @@
 ## **What is a NAT Gateway?**
 
-A **Network Address Translation (NAT) gateway** is a managed service in AWS that enables resources in a **private subnet** to access the Internet and other external resources **outbound** from your Virtual Private Cloud (VPC).
+A **Network Address Translation (NAT) gateway** is a managed service in AWS that enables resources in a **private subnet** to access the Internet and other external resources **outbound** from your [[Virtual Private Cloud (VPC)]].
 
 ---
 
@@ -8,7 +8,7 @@ A **Network Address Translation (NAT) gateway** is a managed service in AWS that
 
 - 🔒 **Private Resource Security:**
     - **Keeps resources private:**
-        - NAT gateways allow your private subnet resources to **initiate** connections to the Internet **without exposing them** to inbound traffic.
+        - NAT gateways allow your private [[Subnet|subnet]] resources to **initiate** connections to the Internet **without exposing them** to inbound traffic.
 - 🔄 **Outbound-Only Connectivity:**
     - **Initiated from Inside:**
         - Connections **must be initiated** from within your private subnet.
@@ -21,7 +21,7 @@ A **Network Address Translation (NAT) gateway** is a managed service in AWS that
 ## **How It Works**
 
 1. **Resource Initiates Connection:**
-    - A resource (e.g., an EC2 instance) inside a **private subnet** starts an outbound connection.
+    - A resource (e.g., an [[Elastic Compute Cloud (EC2)|EC2 Instance]]) inside a **private subnet** starts an outbound connection.
 2. **Translation & Routing:**
     - The NAT gateway translates the **private IP address** to a **public IP address**.
     - This enables the resource to communicate with the Internet.

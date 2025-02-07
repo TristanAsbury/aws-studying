@@ -4,11 +4,11 @@
     - 🌐 **Access Anywhere:**
         - Runs from **all regions** and can be accessed from anywhere with an internet connection.
     - 📍 **Regional Storage:**
-        - Although global, data is stored in a **specific region**.
+        - Although global, data is **stored** in a **specific [[Region|region]].
         - Data **does not leave the region** unless explicitly configured.
     - 🔓 **Public Service:**
         - Accessible worldwide.
-        - Operates in the **Public Zone** (often referred to as _The Network Zones_).
+        - Operates in the **[[The Network Zones#"AWS Public" Zone|Public Zone]]** (often referred to as _The Network Zones_).
     - 💪 **Region Resilient:**
         - Designed to maintain data durability and availability across regions.
 

@@ -11,7 +11,7 @@
       "query": "tag: #Infrastructure  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 7885536
       }
     },
     {
@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#IAM  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Networking",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4651085393100038,
-  "close": true
+  "scale": 0.9141969013273259,
+  "close": false
 }
