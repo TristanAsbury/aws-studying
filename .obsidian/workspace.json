@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM, Accounts & AWS Orgs/Service-linked Roles.md",
+                "file": "Elastic Compute Cloud (EC2)/Elastic Compute Cloud (EC2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service-linked Roles"
+              "title": "Elastic Compute Cloud (EC2)"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IAM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,9 +180,13 @@
   },
   "active": "d67c9898c39acc7f",
   "lastOpenFiles": [
+    "Elastic Compute Cloud (EC2)/Amazon Machine Image (AMI).md",
+    "CloudWatch/CloudWatch.md",
+    "CloudWatch/CloudWatch Logs.md",
+    "IAM, Accounts & AWS Orgs/AWS Organizations.md",
     "IAM, Accounts & AWS Orgs/Service Control Policies.md",
-    "Route53/Nameserver.md",
     "IAM, Accounts & AWS Orgs/Service-linked Roles.md",
+    "Route53/Nameserver.md",
     "IAM, Accounts & AWS Orgs/IAM Role.md",
     "IAM, Accounts & AWS Orgs/IAM Identity.md",
     "CloudFormation/CloudFormation.md",
@@ -196,7 +200,6 @@
     "AWS Fundamentals/Infrastructure/The Network Zones.md",
     "IAM, Accounts & AWS Orgs/Identity Access Management (IAM).md",
     "Pasted image 20250206100826.png",
-    "IAM, Accounts & AWS Orgs/AWS Organizations.md",
     "IAM, Accounts & AWS Orgs/IAM root user.md",
     "Pasted image 20250206085321.png",
     "IAM, Accounts & AWS Orgs/IAM Policy.md",
@@ -204,9 +207,6 @@
     "AWS Fundamentals/Infrastructure/Availability Zone.md",
     "AWS Fundamentals/Essential Concepts/Fault Tolerance (FT).md",
     "AWS Fundamentals/Infrastructure/Region Resilient.md",
-    "AWS Fundamentals/Infrastructure/Edge Locations.md",
-    "Virtual Private Cloud (VPC)/Subnet.md",
-    "Route53/Zone File.md",
-    "Route53/Top-Level Domain (TLD) Server.md"
+    "AWS Fundamentals/Infrastructure/Edge Locations.md"
   ]
 }

@@ -1,0 +1,6 @@
+- Public Service, endpoit is hosting in the AWS public zone. You can use it within VPC or on-premis environments or other cloud platforms.
+- Allows you to store, monitor, and access logging data.
+- At minimum: Information data and timestamp
+- Built in integrations wiht some AWS services (EC2, VPC Flow Logs, Lambda, CloudTrail, R53, and more)
+	- For anything outside of AWS or for logging custom application or OS logs 
+		- Use unified cloudwatch agent

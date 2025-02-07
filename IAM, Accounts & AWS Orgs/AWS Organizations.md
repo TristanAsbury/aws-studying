@@ -32,10 +32,9 @@
 - 📂 **Hierarchical Grouping:**
     - Organize accounts into OUs based on criteria such as business function, environment (production, development, testing), or security requirements.
 - 🗂 **Policy Inheritance:**
-    - SCPs can be attached to OUs, and all accounts within an OU inherit those policies.
+    - [[#**4. Service Control Policies (SCPs)**|SCPs]] can be attached to OUs, and all accounts within an OU inherit those policies.
 
 ### **4. Service Control Policies (SCPs)**
-
 - 📜 **Central Permission Guardrails:**
     - SCPs are policies that define the maximum available permissions for accounts in your organization.
 - 🔒 **Restrictive by Nature:**
